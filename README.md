@@ -10,7 +10,7 @@ I specialise in transforming raw data into actionable insights using Power BI, S
 - 🗄️ SQL (MySQL, PostgreSQL)
 - 🐍 Python (Pandas, NumPy, Matplotlib)
 - ⚙️ Databricks, ETL, Data Pipelines
-- 📈 Machine Learning & Statistical Analysis
+- 📈 Machine Learning & Statistical Analysi
 - 📉 Excel & Data Visualisation
 
 ## 🚀 Featured Projects
@@ -34,6 +34,6 @@ I specialise in transforming raw data into actionable insights using Power BI, S
 - Machine Learning
 
 ## 📫 Connect with Me
-- 🔗 [LinkedIn](ΒΑΛΕ_ΤΟ_LINK)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/stefanidistefanos/)
 - 💻 [GitHub](https://github.com/StefanosStefanidis93)
 - 📧 stefanos.stefanidis1993@gmail.com
