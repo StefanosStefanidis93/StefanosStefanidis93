@@ -12,7 +12,7 @@ I specialise in transforming raw data into actionable insights using Power BI, S
 - ⚙️ Databricks, ETL, Data Pipelines
 - 📈 Machine Learning & Statistical Analysis
 - 📉 Excel & Data Visualisation
-- 
+
 ## 🚀 Featured Projects
 
 - **[High-Value Customer Prediction](https://github.com/StefanosStefanidis93/high-value-customer-prediction)**  
